@@ -7,6 +7,18 @@
   pointer-events: none;
 }
 
+.tables{
+  width: 100%;
+  align-items: center;
+  background-color: bisque;
+}
+
+.tables td{
+ 
+ padding: 8px;
+}
+
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
